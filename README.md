@@ -6,7 +6,9 @@
 
 #Topic covered:-
  1. Linear Search.
- 2.
+ 2.Binary Search-
+   a.Iterative Method.
+   b.Recursive Method.
  3.
  4.
  5.
