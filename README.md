@@ -5,6 +5,7 @@ One thing to be noticed that I will be posting the code releated part only no de
 I hope it will help a lot.
 
 Topic covered:-
+
  1. Linear Search.
  2.Binary Search-
    a.Iterative Method.
