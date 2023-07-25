@@ -10,7 +10,7 @@ Topic covered:-
  2.Binary Search-
    a.Iterative Method.
    b.Recursive Method.
- 3.
+ 3.    
  4.
  5.
  6.
